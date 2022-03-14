@@ -10,10 +10,10 @@ The notebook is organized as follows. Firstly, the data is preprocessed. Secondl
 The preprocessing process has been carried out for each dataset separately, in order to  perform a more easily analysis on the different poems. Later, the three datasets will be grouped together to allow the comparison between the three texts.
 
 ### Methods
-Word embeddings
-TFIDF analysis
-Topic models
-Dimensionality reduction
-Clustering
-Language models 
-NER
+* Word embeddings
+* TFIDF analysis
+* Topic models
+* Dimensionality reduction
+* Clustering
+* Language models 
+* NER
