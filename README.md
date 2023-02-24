@@ -1,6 +1,6 @@
 # NLP_The-Divine-Comedy
 In this Notebook I will try to analize The Divine Comedy by Dante.
-The research question we are going to investigate is how the semantic fields evolve during the path of Dante and whether there are significant differences among the three cantiche, or if the poems, even though set in different places, show the same characteristics in terms of contents. This is why, besides a comprehensive analysis of the most important terms in the texts, we will focus on the topic analysis, to reveal differences/analogies in their distribution.
+The research question we are going to investigate regards how the semantic fields evolve during the path of Dante and whether there are significant differences among the three cantiche, or if the poems, even though set in different places, show the same characteristics in terms of contents. This is why, besides a comprehensive analysis of the most important terms in the texts, we will focus on the topic analysis, to reveal differences/analogies in their distribution.
 
 Divine Comedy is a long Italian narrative poem composed of three *cantiche* : Inferno, Purgatorio and Paradiso. 
 Inferno is divided into 34 *cantos*, while Purgatorio and Paradiso into 33, each poem is in turn written in tercets. 
